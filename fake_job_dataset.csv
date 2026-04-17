@@ -1,0 +1,201 @@
+job_id,title,company_name,location,employment_type,description,requirements,salary_range,contact_email,company_website,domain_age,keyword_flag,email_type,text_length,fraudulent
+1,Online Job Offer,Global Hiring,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,68498/month,job@gmail.com,www.global hiring.com,25,1,1,137,1
+2,Quick Cash Job,Unknown,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,98782/month,fast@outlook.com,www.unknown.com,38,1,1,68,1
+3,Work From Home Typing,FastCash Ltd,Bangalore,Contract,Earn money fast with no experience required,Relevant qualifications required,56523/month,job@gmail.com,www.fastcash ltd.com,41,1,1,128,1
+4,Software Engineer,HCL,Bangalore,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,7 LPA,hr@hcl.com,www.hcl.com,2350,0,0,105,0
+5,Quick Cash Job,FastCash Ltd,Remote,Contract,Earn money fast with no experience required,Relevant qualifications required,47317/month,earn@yahoo.com,www.fastcash ltd.com,50,1,1,141,1
+6,Software Engineer,Infosys,Bangalore,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,7 LPA,hr@infosys.com,www.infosys.com,1700,0,0,136,0
+7,Quick Cash Job,Global Hiring,Hyderabad,Full-time,Earn money fast with no experience required,Relevant qualifications required,36046/month,earn@yahoo.com,www.global hiring.com,4,1,1,124,1
+8,Earn Money Fast,Global Hiring,Mumbai,Contract,Earn money fast with no experience required,Relevant qualifications required,56525/month,fast@outlook.com,www.global hiring.com,8,1,1,55,1
+9,Earn Money Fast,FastCash Ltd,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,86825/month,job@gmail.com,www.fastcash ltd.com,38,1,1,113,1
+10,Earn Money Fast,FastCash Ltd,Mumbai,Full-time,Earn money fast with no experience required,Relevant qualifications required,63376/month,earn@yahoo.com,www.fastcash ltd.com,15,1,1,145,1
+11,HR Manager,Infosys,Mumbai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@infosys.com,www.infosys.com,1675,0,0,93,0
+12,Web Developer,HCL,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@hcl.com,www.hcl.com,2460,0,0,99,0
+13,Marketing Executive,Accenture,Hyderabad,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@accenture.com,www.accenture.com,3993,0,0,83,0
+14,Easy Data Entry Job,Global Hiring,Chennai,Full-time,Earn money fast with no experience required,Relevant qualifications required,64630/month,job@gmail.com,www.global hiring.com,33,1,1,66,1
+15,Earn Money Fast,Global Hiring,Bangalore,Contract,Earn money fast with no experience required,Relevant qualifications required,44257/month,fast@outlook.com,www.global hiring.com,40,1,1,68,1
+16,Work From Home Typing,EasyEarn,Mumbai,Contract,Earn money fast with no experience required,Relevant qualifications required,40407/month,job@gmail.com,www.easyearn.com,5,1,1,98,1
+17,Software Engineer,Wipro,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@wipro.com,www.wipro.com,4080,0,0,116,0
+18,Software Engineer,Wipro,Delhi,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,4 LPA,hr@wipro.com,www.wipro.com,4514,0,0,124,0
+19,Web Developer,Wipro,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,5 LPA,hr@wipro.com,www.wipro.com,4056,0,0,98,0
+20,Online Job Offer,EasyEarn,Hyderabad,Contract,Earn money fast with no experience required,Relevant qualifications required,94427/month,earn@yahoo.com,www.easyearn.com,17,1,1,108,1
+21,Online Job Offer,FastCash Ltd,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,54451/month,fast@outlook.com,www.fastcash ltd.com,23,1,1,95,1
+22,Online Job Offer,Unknown,Hyderabad,Part-time,Earn money fast with no experience required,Relevant qualifications required,83592/month,job@gmail.com,www.unknown.com,6,1,1,80,1
+23,Online Job Offer,QuickJobs,Mumbai,Full-time,Earn money fast with no experience required,Relevant qualifications required,59159/month,job@gmail.com,www.quickjobs.com,20,1,1,110,1
+24,Easy Data Entry Job,EasyEarn,Hyderabad,Full-time,Earn money fast with no experience required,Relevant qualifications required,56018/month,earn@yahoo.com,www.easyearn.com,34,1,1,76,1
+25,Data Analyst,TCS,Remote,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@tcs.com,www.tcs.com,1851,0,0,83,0
+26,Earn Money Fast,QuickJobs,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,80515/month,earn@yahoo.com,www.quickjobs.com,48,1,1,81,1
+27,Web Developer,Accenture,Bangalore,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@accenture.com,www.accenture.com,2931,0,0,119,0
+28,Data Analyst,Wipro,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@wipro.com,www.wipro.com,4072,0,0,148,0
+29,HR Manager,Infosys,Chennai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@infosys.com,www.infosys.com,1113,0,0,59,0
+30,Marketing Executive,Accenture,Delhi,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@accenture.com,www.accenture.com,2278,0,0,146,0
+31,Web Developer,TCS,Mumbai,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@tcs.com,www.tcs.com,4754,0,0,116,0
+32,HR Manager,TCS,Bangalore,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@tcs.com,www.tcs.com,1146,0,0,57,0
+33,Earn Money Fast,EasyEarn,Mumbai,Contract,Earn money fast with no experience required,Relevant qualifications required,33860/month,fast@outlook.com,www.easyearn.com,27,1,1,50,1
+34,Web Developer,TCS,Hyderabad,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@tcs.com,www.tcs.com,1851,0,0,88,0
+35,Earn Money Fast,FastCash Ltd,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,61678/month,job@gmail.com,www.fastcash ltd.com,29,1,1,84,1
+36,Easy Data Entry Job,EasyEarn,Mumbai,Contract,Earn money fast with no experience required,Relevant qualifications required,96953/month,job@gmail.com,www.easyearn.com,47,1,1,145,1
+37,Web Developer,Wipro,Remote,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@wipro.com,www.wipro.com,4453,0,0,85,0
+38,Easy Data Entry Job,EasyEarn,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,89834/month,fast@outlook.com,www.easyearn.com,8,1,1,85,1
+39,Online Job Offer,QuickJobs,Hyderabad,Part-time,Earn money fast with no experience required,Relevant qualifications required,87588/month,fast@outlook.com,www.quickjobs.com,42,1,1,86,1
+40,Work From Home Typing,FastCash Ltd,Mumbai,Part-time,Earn money fast with no experience required,Relevant qualifications required,94722/month,earn@yahoo.com,www.fastcash ltd.com,48,1,1,105,1
+41,Data Analyst,HCL,Chennai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,5 LPA,hr@hcl.com,www.hcl.com,1994,0,0,145,0
+42,Marketing Executive,HCL,Chennai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,12 LPA,hr@hcl.com,www.hcl.com,1170,0,0,65,0
+43,Online Job Offer,QuickJobs,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,31823/month,fast@outlook.com,www.quickjobs.com,33,1,1,62,1
+44,Online Job Offer,Global Hiring,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,91791/month,fast@outlook.com,www.global hiring.com,27,1,1,105,1
+45,Work From Home Typing,Global Hiring,Hyderabad,Full-time,Earn money fast with no experience required,Relevant qualifications required,73296/month,job@gmail.com,www.global hiring.com,6,1,1,148,1
+46,Easy Data Entry Job,EasyEarn,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,76552/month,job@gmail.com,www.easyearn.com,19,1,1,105,1
+47,Work From Home Typing,EasyEarn,Bangalore,Part-time,Earn money fast with no experience required,Relevant qualifications required,78506/month,fast@outlook.com,www.easyearn.com,16,1,1,131,1
+48,Quick Cash Job,Global Hiring,Mumbai,Part-time,Earn money fast with no experience required,Relevant qualifications required,59677/month,job@gmail.com,www.global hiring.com,41,1,1,63,1
+49,Work From Home Typing,QuickJobs,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,58054/month,fast@outlook.com,www.quickjobs.com,34,1,1,141,1
+50,Quick Cash Job,Unknown,Hyderabad,Contract,Earn money fast with no experience required,Relevant qualifications required,87086/month,job@gmail.com,www.unknown.com,14,1,1,150,1
+51,Earn Money Fast,Unknown,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,36691/month,job@gmail.com,www.unknown.com,34,1,1,132,1
+52,Data Analyst,Infosys,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@infosys.com,www.infosys.com,1879,0,0,90,0
+53,Marketing Executive,TCS,Chennai,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@tcs.com,www.tcs.com,3877,0,0,92,0
+54,Earn Money Fast,QuickJobs,Bangalore,Contract,Earn money fast with no experience required,Relevant qualifications required,58920/month,fast@outlook.com,www.quickjobs.com,30,1,1,83,1
+55,Earn Money Fast,FastCash Ltd,Chennai,Full-time,Earn money fast with no experience required,Relevant qualifications required,89140/month,job@gmail.com,www.fastcash ltd.com,13,1,1,94,1
+56,Marketing Executive,TCS,Hyderabad,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,4 LPA,hr@tcs.com,www.tcs.com,1748,0,0,79,0
+57,Marketing Executive,Accenture,Remote,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@accenture.com,www.accenture.com,3199,0,0,78,0
+58,Quick Cash Job,Global Hiring,Mumbai,Part-time,Earn money fast with no experience required,Relevant qualifications required,67100/month,earn@yahoo.com,www.global hiring.com,18,1,1,93,1
+59,Marketing Executive,Accenture,Delhi,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,7 LPA,hr@accenture.com,www.accenture.com,4358,0,0,91,0
+60,Software Engineer,HCL,Delhi,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@hcl.com,www.hcl.com,1233,0,0,121,0
+61,Easy Data Entry Job,Unknown,Remote,Part-time,Earn money fast with no experience required,Relevant qualifications required,58322/month,earn@yahoo.com,www.unknown.com,19,1,1,85,1
+62,HR Manager,Infosys,Remote,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,12 LPA,hr@infosys.com,www.infosys.com,1006,0,0,116,0
+63,Online Job Offer,Global Hiring,Delhi,Full-time,Earn money fast with no experience required,Relevant qualifications required,38037/month,earn@yahoo.com,www.global hiring.com,42,1,1,71,1
+64,Web Developer,Wipro,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,12 LPA,hr@wipro.com,www.wipro.com,3203,0,0,100,0
+65,Earn Money Fast,QuickJobs,Mumbai,Full-time,Earn money fast with no experience required,Relevant qualifications required,70414/month,job@gmail.com,www.quickjobs.com,12,1,1,95,1
+66,Marketing Executive,Wipro,Bangalore,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@wipro.com,www.wipro.com,2651,0,0,89,0
+67,Easy Data Entry Job,EasyEarn,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,38373/month,earn@yahoo.com,www.easyearn.com,32,1,1,94,1
+68,Earn Money Fast,FastCash Ltd,Chennai,Part-time,Earn money fast with no experience required,Relevant qualifications required,55640/month,fast@outlook.com,www.fastcash ltd.com,39,1,1,55,1
+69,Earn Money Fast,Unknown,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,87207/month,earn@yahoo.com,www.unknown.com,36,1,1,92,1
+70,Quick Cash Job,Unknown,Remote,Contract,Earn money fast with no experience required,Relevant qualifications required,57165/month,job@gmail.com,www.unknown.com,49,1,1,118,1
+71,Work From Home Typing,Unknown,Bangalore,Contract,Earn money fast with no experience required,Relevant qualifications required,51410/month,job@gmail.com,www.unknown.com,41,1,1,112,1
+72,Marketing Executive,Infosys,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,4 LPA,hr@infosys.com,www.infosys.com,2371,0,0,95,0
+73,Data Analyst,TCS,Mumbai,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,7 LPA,hr@tcs.com,www.tcs.com,1930,0,0,117,0
+74,Online Job Offer,Unknown,Hyderabad,Contract,Earn money fast with no experience required,Relevant qualifications required,97182/month,job@gmail.com,www.unknown.com,50,1,1,83,1
+75,Easy Data Entry Job,FastCash Ltd,Hyderabad,Part-time,Earn money fast with no experience required,Relevant qualifications required,61581/month,earn@yahoo.com,www.fastcash ltd.com,29,1,1,123,1
+76,Quick Cash Job,Global Hiring,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,64467/month,fast@outlook.com,www.global hiring.com,34,1,1,122,1
+77,Quick Cash Job,Unknown,Chennai,Full-time,Earn money fast with no experience required,Relevant qualifications required,94727/month,earn@yahoo.com,www.unknown.com,37,1,1,119,1
+78,Marketing Executive,Infosys,Delhi,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@infosys.com,www.infosys.com,2529,0,0,79,0
+79,Quick Cash Job,Global Hiring,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,59289/month,job@gmail.com,www.global hiring.com,28,1,1,138,1
+80,Web Developer,TCS,Mumbai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@tcs.com,www.tcs.com,2977,0,0,79,0
+81,Online Job Offer,Global Hiring,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,65502/month,fast@outlook.com,www.global hiring.com,7,1,1,83,1
+82,Earn Money Fast,FastCash Ltd,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,54741/month,fast@outlook.com,www.fastcash ltd.com,47,1,1,147,1
+83,Software Engineer,Wipro,Hyderabad,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,5 LPA,hr@wipro.com,www.wipro.com,4446,0,0,85,0
+84,Work From Home Typing,QuickJobs,Bangalore,Contract,Earn money fast with no experience required,Relevant qualifications required,34881/month,job@gmail.com,www.quickjobs.com,18,1,1,88,1
+85,Data Analyst,Infosys,Bangalore,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@infosys.com,www.infosys.com,2125,0,0,122,0
+86,Data Analyst,TCS,Hyderabad,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@tcs.com,www.tcs.com,3029,0,0,88,0
+87,Easy Data Entry Job,Global Hiring,Chennai,Part-time,Earn money fast with no experience required,Relevant qualifications required,60560/month,job@gmail.com,www.global hiring.com,27,1,1,93,1
+88,Earn Money Fast,Global Hiring,Delhi,Full-time,Earn money fast with no experience required,Relevant qualifications required,36284/month,job@gmail.com,www.global hiring.com,11,1,1,147,1
+89,Online Job Offer,Unknown,Chennai,Part-time,Earn money fast with no experience required,Relevant qualifications required,30352/month,fast@outlook.com,www.unknown.com,39,1,1,68,1
+90,Online Job Offer,EasyEarn,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,42289/month,fast@outlook.com,www.easyearn.com,17,1,1,69,1
+91,Quick Cash Job,EasyEarn,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,32910/month,earn@yahoo.com,www.easyearn.com,15,1,1,99,1
+92,Quick Cash Job,EasyEarn,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,72124/month,fast@outlook.com,www.easyearn.com,1,1,1,78,1
+93,Easy Data Entry Job,EasyEarn,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,37866/month,earn@yahoo.com,www.easyearn.com,40,1,1,53,1
+94,Work From Home Typing,Unknown,Mumbai,Part-time,Earn money fast with no experience required,Relevant qualifications required,30021/month,fast@outlook.com,www.unknown.com,32,1,1,58,1
+95,Data Analyst,Infosys,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@infosys.com,www.infosys.com,2551,0,0,69,0
+96,Quick Cash Job,QuickJobs,Chennai,Part-time,Earn money fast with no experience required,Relevant qualifications required,77480/month,fast@outlook.com,www.quickjobs.com,35,1,1,100,1
+97,Quick Cash Job,Unknown,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,63070/month,job@gmail.com,www.unknown.com,16,1,1,64,1
+98,Software Engineer,Accenture,Mumbai,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@accenture.com,www.accenture.com,1632,0,0,66,0
+99,Web Developer,Infosys,Chennai,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,5 LPA,hr@infosys.com,www.infosys.com,1205,0,0,145,0
+100,Online Job Offer,Unknown,Bangalore,Part-time,Earn money fast with no experience required,Relevant qualifications required,58947/month,earn@yahoo.com,www.unknown.com,31,1,1,69,1
+101,Earn Money Fast,Global Hiring,Remote,Part-time,Earn money fast with no experience required,Relevant qualifications required,40923/month,earn@yahoo.com,www.global hiring.com,46,1,1,69,1
+102,Web Developer,TCS,Mumbai,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@tcs.com,www.tcs.com,2264,0,0,131,0
+103,Easy Data Entry Job,Unknown,Chennai,Full-time,Earn money fast with no experience required,Relevant qualifications required,82074/month,job@gmail.com,www.unknown.com,28,1,1,102,1
+104,Data Analyst,Infosys,Delhi,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@infosys.com,www.infosys.com,2405,0,0,130,0
+105,Data Analyst,Infosys,Delhi,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@infosys.com,www.infosys.com,3939,0,0,116,0
+106,Work From Home Typing,FastCash Ltd,Hyderabad,Full-time,Earn money fast with no experience required,Relevant qualifications required,50148/month,job@gmail.com,www.fastcash ltd.com,27,1,1,93,1
+107,Data Analyst,TCS,Hyderabad,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@tcs.com,www.tcs.com,3626,0,0,79,0
+108,Easy Data Entry Job,Unknown,Hyderabad,Full-time,Earn money fast with no experience required,Relevant qualifications required,90320/month,earn@yahoo.com,www.unknown.com,25,1,1,97,1
+109,Easy Data Entry Job,EasyEarn,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,81868/month,job@gmail.com,www.easyearn.com,49,1,1,88,1
+110,Online Job Offer,Global Hiring,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,63859/month,job@gmail.com,www.global hiring.com,37,1,1,53,1
+111,Online Job Offer,QuickJobs,Chennai,Part-time,Earn money fast with no experience required,Relevant qualifications required,76625/month,fast@outlook.com,www.quickjobs.com,34,1,1,143,1
+112,Web Developer,Accenture,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@accenture.com,www.accenture.com,1800,0,0,125,0
+113,Work From Home Typing,Global Hiring,Bangalore,Contract,Earn money fast with no experience required,Relevant qualifications required,70590/month,fast@outlook.com,www.global hiring.com,7,1,1,78,1
+114,Quick Cash Job,Unknown,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,97816/month,fast@outlook.com,www.unknown.com,41,1,1,141,1
+115,HR Manager,TCS,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@tcs.com,www.tcs.com,2134,0,0,124,0
+116,Easy Data Entry Job,EasyEarn,Mumbai,Full-time,Earn money fast with no experience required,Relevant qualifications required,95340/month,earn@yahoo.com,www.easyearn.com,33,1,1,119,1
+117,Web Developer,Accenture,Hyderabad,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@accenture.com,www.accenture.com,3295,0,0,121,0
+118,HR Manager,Wipro,Chennai,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,12 LPA,hr@wipro.com,www.wipro.com,1495,0,0,50,0
+119,Quick Cash Job,Global Hiring,Bangalore,Part-time,Earn money fast with no experience required,Relevant qualifications required,91104/month,earn@yahoo.com,www.global hiring.com,32,1,1,95,1
+120,Marketing Executive,Wipro,Hyderabad,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@wipro.com,www.wipro.com,1771,0,0,92,0
+121,Quick Cash Job,EasyEarn,Mumbai,Part-time,Earn money fast with no experience required,Relevant qualifications required,59698/month,earn@yahoo.com,www.easyearn.com,24,1,1,97,1
+122,Software Engineer,HCL,Remote,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@hcl.com,www.hcl.com,1886,0,0,50,0
+123,Online Job Offer,FastCash Ltd,Mumbai,Full-time,Earn money fast with no experience required,Relevant qualifications required,78426/month,fast@outlook.com,www.fastcash ltd.com,25,1,1,112,1
+124,Data Analyst,Wipro,Hyderabad,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,4 LPA,hr@wipro.com,www.wipro.com,2269,0,0,91,0
+125,Web Developer,HCL,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@hcl.com,www.hcl.com,1642,0,0,125,0
+126,Work From Home Typing,Global Hiring,Delhi,Full-time,Earn money fast with no experience required,Relevant qualifications required,40068/month,job@gmail.com,www.global hiring.com,28,1,1,65,1
+127,Quick Cash Job,Unknown,Chennai,Full-time,Earn money fast with no experience required,Relevant qualifications required,77675/month,earn@yahoo.com,www.unknown.com,23,1,1,53,1
+128,Marketing Executive,Wipro,Delhi,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@wipro.com,www.wipro.com,1834,0,0,86,0
+129,Online Job Offer,EasyEarn,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,98193/month,fast@outlook.com,www.easyearn.com,17,1,1,97,1
+130,Web Developer,Infosys,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@infosys.com,www.infosys.com,3477,0,0,67,0
+131,Web Developer,TCS,Remote,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,7 LPA,hr@tcs.com,www.tcs.com,1445,0,0,117,0
+132,Software Engineer,HCL,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@hcl.com,www.hcl.com,2913,0,0,104,0
+133,HR Manager,HCL,Mumbai,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@hcl.com,www.hcl.com,3668,0,0,119,0
+134,Marketing Executive,Accenture,Bangalore,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@accenture.com,www.accenture.com,4725,0,0,134,0
+135,Marketing Executive,HCL,Remote,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@hcl.com,www.hcl.com,3695,0,0,147,0
+136,Marketing Executive,TCS,Bangalore,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@tcs.com,www.tcs.com,3769,0,0,106,0
+137,Online Job Offer,Global Hiring,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,64424/month,earn@yahoo.com,www.global hiring.com,31,1,1,88,1
+138,Quick Cash Job,EasyEarn,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,30154/month,job@gmail.com,www.easyearn.com,35,1,1,99,1
+139,Easy Data Entry Job,Global Hiring,Hyderabad,Part-time,Earn money fast with no experience required,Relevant qualifications required,37263/month,fast@outlook.com,www.global hiring.com,27,1,1,65,1
+140,Web Developer,Wipro,Remote,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@wipro.com,www.wipro.com,2173,0,0,144,0
+141,HR Manager,Infosys,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@infosys.com,www.infosys.com,2411,0,0,52,0
+142,Online Job Offer,Unknown,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,89889/month,earn@yahoo.com,www.unknown.com,31,1,1,96,1
+143,Software Engineer,Wipro,Mumbai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,4 LPA,hr@wipro.com,www.wipro.com,2208,0,0,147,0
+144,Easy Data Entry Job,FastCash Ltd,Delhi,Full-time,Earn money fast with no experience required,Relevant qualifications required,42031/month,job@gmail.com,www.fastcash ltd.com,35,1,1,95,1
+145,Earn Money Fast,EasyEarn,Bangalore,Part-time,Earn money fast with no experience required,Relevant qualifications required,55916/month,earn@yahoo.com,www.easyearn.com,49,1,1,89,1
+146,Earn Money Fast,Unknown,Chennai,Full-time,Earn money fast with no experience required,Relevant qualifications required,30415/month,earn@yahoo.com,www.unknown.com,33,1,1,65,1
+147,Easy Data Entry Job,EasyEarn,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,67967/month,job@gmail.com,www.easyearn.com,2,1,1,132,1
+148,Online Job Offer,QuickJobs,Remote,Part-time,Earn money fast with no experience required,Relevant qualifications required,97485/month,earn@yahoo.com,www.quickjobs.com,20,1,1,122,1
+149,Quick Cash Job,QuickJobs,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,87793/month,job@gmail.com,www.quickjobs.com,6,1,1,95,1
+150,Easy Data Entry Job,QuickJobs,Mumbai,Contract,Earn money fast with no experience required,Relevant qualifications required,60470/month,fast@outlook.com,www.quickjobs.com,38,1,1,110,1
+151,Web Developer,HCL,Chennai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@hcl.com,www.hcl.com,4658,0,0,121,0
+152,Easy Data Entry Job,Global Hiring,Delhi,Full-time,Earn money fast with no experience required,Relevant qualifications required,58209/month,fast@outlook.com,www.global hiring.com,16,1,1,62,1
+153,Quick Cash Job,FastCash Ltd,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,73831/month,earn@yahoo.com,www.fastcash ltd.com,1,1,1,50,1
+154,Quick Cash Job,FastCash Ltd,Delhi,Part-time,Earn money fast with no experience required,Relevant qualifications required,54501/month,earn@yahoo.com,www.fastcash ltd.com,38,1,1,81,1
+155,Easy Data Entry Job,Unknown,Chennai,Part-time,Earn money fast with no experience required,Relevant qualifications required,57031/month,earn@yahoo.com,www.unknown.com,47,1,1,56,1
+156,Quick Cash Job,Unknown,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,82148/month,job@gmail.com,www.unknown.com,20,1,1,84,1
+157,Earn Money Fast,QuickJobs,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,85930/month,fast@outlook.com,www.quickjobs.com,15,1,1,145,1
+158,Quick Cash Job,EasyEarn,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,41181/month,fast@outlook.com,www.easyearn.com,48,1,1,109,1
+159,Online Job Offer,Global Hiring,Bangalore,Part-time,Earn money fast with no experience required,Relevant qualifications required,71755/month,job@gmail.com,www.global hiring.com,11,1,1,121,1
+160,Web Developer,Wipro,Delhi,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@wipro.com,www.wipro.com,2805,0,0,127,0
+161,Work From Home Typing,Global Hiring,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,69758/month,job@gmail.com,www.global hiring.com,11,1,1,114,1
+162,Web Developer,Infosys,Mumbai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@infosys.com,www.infosys.com,3531,0,0,136,0
+163,Marketing Executive,Infosys,Hyderabad,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@infosys.com,www.infosys.com,2569,0,0,101,0
+164,Work From Home Typing,Unknown,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,46888/month,earn@yahoo.com,www.unknown.com,6,1,1,126,1
+165,Data Analyst,Infosys,Chennai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@infosys.com,www.infosys.com,3723,0,0,129,0
+166,HR Manager,Infosys,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@infosys.com,www.infosys.com,3369,0,0,65,0
+167,Data Analyst,Wipro,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@wipro.com,www.wipro.com,2688,0,0,81,0
+168,Software Engineer,TCS,Hyderabad,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@tcs.com,www.tcs.com,2632,0,0,110,0
+169,Easy Data Entry Job,EasyEarn,Mumbai,Full-time,Earn money fast with no experience required,Relevant qualifications required,88570/month,earn@yahoo.com,www.easyearn.com,45,1,1,54,1
+170,HR Manager,Accenture,Delhi,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@accenture.com,www.accenture.com,4201,0,0,68,0
+171,Quick Cash Job,QuickJobs,Chennai,Contract,Earn money fast with no experience required,Relevant qualifications required,71684/month,earn@yahoo.com,www.quickjobs.com,21,1,1,69,1
+172,HR Manager,HCL,Remote,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@hcl.com,www.hcl.com,2939,0,0,134,0
+173,Web Developer,HCL,Delhi,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,6 LPA,hr@hcl.com,www.hcl.com,3289,0,0,62,0
+174,Work From Home Typing,EasyEarn,Hyderabad,Part-time,Earn money fast with no experience required,Relevant qualifications required,79888/month,fast@outlook.com,www.easyearn.com,37,1,1,107,1
+175,Data Analyst,HCL,Delhi,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@hcl.com,www.hcl.com,1297,0,0,89,0
+176,Work From Home Typing,Unknown,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,96751/month,fast@outlook.com,www.unknown.com,44,1,1,56,1
+177,Data Analyst,HCL,Chennai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@hcl.com,www.hcl.com,1676,0,0,81,0
+178,Data Analyst,HCL,Remote,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@hcl.com,www.hcl.com,1638,0,0,75,0
+179,Quick Cash Job,Unknown,Remote,Full-time,Earn money fast with no experience required,Relevant qualifications required,95780/month,fast@outlook.com,www.unknown.com,20,1,1,132,1
+180,Quick Cash Job,Unknown,Mumbai,Contract,Earn money fast with no experience required,Relevant qualifications required,49719/month,fast@outlook.com,www.unknown.com,8,1,1,57,1
+181,Data Analyst,Accenture,Remote,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@accenture.com,www.accenture.com,4077,0,0,89,0
+182,Software Engineer,Wipro,Delhi,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,4 LPA,hr@wipro.com,www.wipro.com,2369,0,0,119,0
+183,HR Manager,TCS,Chennai,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@tcs.com,www.tcs.com,2900,0,0,73,0
+184,HR Manager,HCL,Delhi,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,10 LPA,hr@hcl.com,www.hcl.com,2906,0,0,131,0
+185,Web Developer,Wipro,Bangalore,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@wipro.com,www.wipro.com,3984,0,0,53,0
+186,Easy Data Entry Job,QuickJobs,Bangalore,Full-time,Earn money fast with no experience required,Relevant qualifications required,56041/month,earn@yahoo.com,www.quickjobs.com,19,1,1,61,1
+187,Web Developer,Wipro,Chennai,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,8 LPA,hr@wipro.com,www.wipro.com,1780,0,0,71,0
+188,Work From Home Typing,Global Hiring,Chennai,Part-time,Earn money fast with no experience required,Relevant qualifications required,69149/month,fast@outlook.com,www.global hiring.com,32,1,1,69,1
+189,HR Manager,HCL,Hyderabad,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@hcl.com,www.hcl.com,1830,0,0,137,0
+190,Data Analyst,TCS,Bangalore,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@tcs.com,www.tcs.com,4593,0,0,115,0
+191,HR Manager,Wipro,Chennai,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@wipro.com,www.wipro.com,3906,0,0,72,0
+192,Software Engineer,Infosys,Chennai,Full-time,Professional role requiring relevant skills and experience,Relevant qualifications required,9 LPA,hr@infosys.com,www.infosys.com,1577,0,0,56,0
+193,Earn Money Fast,FastCash Ltd,Hyderabad,Contract,Earn money fast with no experience required,Relevant qualifications required,64512/month,job@gmail.com,www.fastcash ltd.com,36,1,1,54,1
+194,Earn Money Fast,Unknown,Hyderabad,Full-time,Earn money fast with no experience required,Relevant qualifications required,56374/month,fast@outlook.com,www.unknown.com,17,1,1,53,1
+195,Easy Data Entry Job,QuickJobs,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,62347/month,fast@outlook.com,www.quickjobs.com,26,1,1,145,1
+196,Marketing Executive,Wipro,Mumbai,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,4 LPA,hr@wipro.com,www.wipro.com,2932,0,0,120,0
+197,Marketing Executive,TCS,Chennai,Part-time,Professional role requiring relevant skills and experience,Relevant qualifications required,11 LPA,hr@tcs.com,www.tcs.com,2805,0,0,124,0
+198,Web Developer,TCS,Mumbai,Contract,Professional role requiring relevant skills and experience,Relevant qualifications required,3 LPA,hr@tcs.com,www.tcs.com,1416,0,0,92,0
+199,Easy Data Entry Job,FastCash Ltd,Remote,Contract,Earn money fast with no experience required,Relevant qualifications required,84661/month,earn@yahoo.com,www.fastcash ltd.com,40,1,1,136,1
+200,Online Job Offer,QuickJobs,Delhi,Contract,Earn money fast with no experience required,Relevant qualifications required,52227/month,earn@yahoo.com,www.quickjobs.com,21,1,1,94,1
